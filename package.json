@@ -1,0 +1,19 @@
+{
+  "name": "code-jam",
+  "version": "1.0.0",
+  "description": "* rsschool-codejam",
+  "main": "sumOfOther.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArturKudlo/rsschool-codejam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArturKudlo/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/ArturKudlo/rsschool-codejam#readme"
+}
